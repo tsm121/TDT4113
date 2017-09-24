@@ -1,7 +1,7 @@
 # TDT4113
 Datateknologi, programmeringsprosjekt [autumn 2016]
 
-This repository include assignments in this course; Arduino, cryptography, analyzing-text-program, simple AI Arduino robot, among other things.
+Repository include assignments in this course. Such as; simple Arduino-app, cryptography, analyzing-text-program, simple AI Arduino robot, etc.
 
 # Faglig innhold
 
